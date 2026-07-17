@@ -337,25 +337,6 @@ Create a **public** GitHub repository named `ce-lab-deploy-nodejs` containing:
    - Why PM2 instead of `node app.js &`
    - How you proved the app survives a reboot
 
-**Structure:**
-```
-ce-lab-deploy-nodejs/
-├── README.md
-├── deploy.sh
-├── application/
-│   ├── app.js
-│   ├── package.json
-│   └── ecosystem.config.js
-├── configs/
-│   └── app.conf
-└── screenshots/
-    ├── 01-pm2-list-online.png
-    ├── 02-pm2-startup-enabled.png
-    ├── 03-health-endpoint.png
-    ├── 04-after-reboot.png
-    └── 05-crash-recovery.png
-```
-
 ---
 
 ## Screenshot Checklist
