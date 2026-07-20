@@ -1,7 +1,7 @@
 # Deploy Node.js Application Lab - Solution
 
 **Student Name:** Balint Lojt
-**Date Completed:** 17/07/2026
+**Date Completed:** 20/07/2026
 
 ---
 

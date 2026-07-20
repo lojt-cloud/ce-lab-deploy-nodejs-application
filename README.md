@@ -1,7 +1,7 @@
 # Deploy Node.js Application - Lab Documentation
 
 **Student:** Balint Lojt
-**Date:** 19/07/2026
+**Date:** 20/07/2026
 
 ---
 
